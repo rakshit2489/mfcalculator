@@ -6,10 +6,8 @@ INSERT INTO PUBLIC.PORTFOLIO(ID, FOLIONUMBER, CLIENTNAME, PURCHASEDDATE, FUNDNAM
 (5, '10330205/12', 'Rajiv Sawhney', DATE '2017-10-05', 'ICICI Prudential Balanced Fund', 'Growth', 900000, 121.180002391285, 7426.968),
 (6, '10212370051', 'Rajiv Sawhney', DATE '2017-11-17', 'Canara Emerging Equities fund', 'Growth', 1000000, 98.81, 10857.763),
 (7, '13686259/62', 'Rajiv Sawhney', DATE '2018-02-02', 'HDFC Midcap Opportunities Fund', 'Growth', 250000, 58.841, 4426.887),
-(8, '3383811/05', 'Rajiv Sawhney', DATE '2017-10-16', 'L&T India Value Fund', 'Growth', 200000, 37.1180781743844, 5388.21),
 (9, '9017591915', 'Rajiv Sawhney', DATE '2017-09-28', 'Motilal Oswal Most Focused Multicap 35 Fund', 'Growth', 1200000, 25.7074034751268, 46679.16),
 (10, '12706835/10', 'Rajiv Sawhney', DATE '2017-10-04', 'HDFC Equity Savings Fund', 'Growth', 1000000, 34.0069995246842, 29405.711),
-(11, '3818553/41', 'Rajiv Sawhney', DATE '2017-10-23', 'Tata Equity PE Fund', 'Growth', 300000, 136.400402472121, 2199.407),
 (12, '1019793812', 'Rajiv Sawhney', DATE '2017-10-03', 'Birla Sun Life Medium Term', 'Growth', 750000, 21.4401000766698, 34981.18),
 (13, '1569910948200', 'Rajiv Sawhney', DATE '2017-09-28', 'Franklin India Dynamic Accrued fund', 'Growth', 750000, 59.4456000228905, 12616.577),
 (14, '12684112/85', 'Rajiv Sawhney', DATE '2017-09-28', 'HDFC Coporate Debt Opportunities Fund', 'Growth', 500000, 14.0826001391868, 35504.807);
