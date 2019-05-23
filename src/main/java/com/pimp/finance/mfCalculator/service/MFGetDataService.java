@@ -45,7 +45,7 @@ public class MFGetDataService {
             } catch (Exception e){
                 e.getMessage();
             }
-            BigDecimal currentFValue = fValue.multiply(fund.getUnitsPurchased());
+            BigDecimal currentFValue = Optional.ofNullable(fValue).orElse(new BigDecimal(0)).multiply(fund.getUnitsPurchased());
             BigDecimal profit = currentFValue.subtract(fund.getInvestmantAmount());
             log.info(" Fund -> " + fund.getFundName() + " Current Value -> " + currentFValue
              + " Profit -> " + profit);
